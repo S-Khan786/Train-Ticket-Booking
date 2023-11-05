@@ -18,7 +18,7 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 - Login
 - Add Trains
 - Update Trains
-- Remove  or cancle Trains
+- Remove  or cancel Trains
 - View Trains
 - Profile Edit
 - Logout
