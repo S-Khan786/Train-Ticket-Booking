@@ -210,3 +210,19 @@ Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
 13. Add Trains By Admin
 <img alt="Admin Home" src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/addtrains.png" width="100%">
 
+
+# Magical Arena Game
+
+## Description
+
+This is a simple game where two players fight in a magical arena. Players attack in turns, rolling dice to determine the outcome of their attack and defense. The game ends when one player's health reaches 0.
+
+## How to Run the Game
+
+1. Install Node.js on your system.
+2. Extract the zip file to a folder.
+3. Open a terminal and navigate to the folder.
+4. Run the game:
+   ```bash
+   node src/game.js
+
